@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmmasDanceWebsite/static/css/main.ea3b36ca.css",
+    "main.js": "/EmmasDanceWebsite/static/js/main.c683e4e3.js",
+    "static/js/787.91f06943.chunk.js": "/EmmasDanceWebsite/static/js/787.91f06943.chunk.js",
+    "index.html": "/EmmasDanceWebsite/index.html",
+    "main.ea3b36ca.css.map": "/EmmasDanceWebsite/static/css/main.ea3b36ca.css.map",
+    "main.c683e4e3.js.map": "/EmmasDanceWebsite/static/js/main.c683e4e3.js.map",
+    "787.91f06943.chunk.js.map": "/EmmasDanceWebsite/static/js/787.91f06943.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea3b36ca.css",
+    "static/js/main.c683e4e3.js"
+  ]
+}
